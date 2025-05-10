@@ -2,8 +2,6 @@
 
 A responsive, single-page marketing website for SoftSell, a fictional software license resale startup that helps businesses monetize their unused software licenses.
 
-![SoftSell Screenshot](/api/placeholder/800/400)
-
 ## Live Demo
 
 [View Live Demo](https://softsell-demo.vercel.app) (placeholder link)
